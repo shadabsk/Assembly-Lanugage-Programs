@@ -11,7 +11,7 @@ Assembly Language Programs
 * Copy the .asm files in the TASM installed directory.
 * The image file represents the sample input and generated output
 * assemble using tasm followed by filename.asm eg: tasm fact.asm *giving extension are optional*
-* link using tlink followed by filename.obj eg:square.obj *giving extention are optional*
+* link using tlink followed by filename.obj eg:square.obj *giving extension are optional*
 
 ### Factorial & Square 
 * For factorial use td fact.exe then press f9 and enter number observe the output in ax register
